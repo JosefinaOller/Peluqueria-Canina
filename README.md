@@ -46,7 +46,7 @@ La aplicación utiliza **Programación Orientada a Objetos (POO)** para mantener
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/gestion-peluqueria-canina.git
+   git clone https://github.com/JosefinaOller/Peluqueria-Canina.git
    ```
 
 2. Importa el proyecto en tu IDE de Java favorito (NetBeans, IntelliJ, Eclipse, etc.).
